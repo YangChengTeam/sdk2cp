@@ -21,8 +21,8 @@
 - **后台**<br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;服务器对接文档<br/>
 
-- **cp**<br />
-  **支付回调地址**
+- **cp**<br/>
+  **支付回调地址**<br/>
   **如果是iOS还需提供**<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;a.iap相关信息<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;b.测试设备id信息<br/>
