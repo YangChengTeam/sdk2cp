@@ -5,13 +5,13 @@
 ----
 一般如下信息由：渠道对接**统一打包**提供给cp对接方<br/>
 
-- **渠道后台**
+- **渠道后台** <br/>
 	**根据【游戏名称】将游戏信息录入后台生成相关参数** <br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;1. appid=编号<br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;2. gameid=编号<br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;3. appkey=秘钥<br/>
 
-- **客户端**
+- **客户端** <br/>
 	**提供SDK相关的文件**<br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;1.SDK<br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;2.SDK文档<br/>
