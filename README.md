@@ -1,3 +1,41 @@
+**乐七iOS-SDK**
+---
+[**下载乐七iOS-SDKv1.0.5**](乐七iOS-SDK_v1.0.5.zip)
+
+
+**更新日志：**<br/>
+- 当前版本：**1.0.5**<br/>
+	1.F: 网络请求代码优化<br/>
+	2.F: 消除循环引用代码<br/>
+
+- 版本：1.0.4<br/>
+	1.F: init接口电话字段错误<br/>
+
+- 版本：1.0.3<br/>
+	1.F: getCurrentViewController crash bug<br/>
+
+- 版本：1.0.2<br/>
+	1.F: 将注销逻辑由sdk处理<br/>
+	
+- 版本：1.0.1
+  	**主要处理app stroe审核问题**<br/>
+	
+  	1.A: 开关隐藏：联系方式<br/>
+  	2.F: h5支付宝换成http方式<br/>
+
+
+
+- 版本：1.0<br/>
+	a.**用户系统**<br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;1.A: 用户登录、快速登录、自动登录、注册<br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;2.A: 忘记密码<br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;3.A: 多帐号系统<br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;4.A: 基本用户设置<br/>
+	b.**支付系统**<br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;1.A: IAP<br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;2.A: h5支付<br/>
+	c.A: **客服系统**<br/>
+
 **游戏对接基本流程**
 ----
 
@@ -30,7 +68,7 @@ cp对接方提供给渠道对接<br/>
 
 附加信息提供
 ---
-
+[**windows appuploader下载**](http://www.applicationloader.net/appuploader/download.php)<br/>
 - **iOS 渠道提供相关信息**<br/>
 	1.提供appid<br/>
 	2.提供证书 在钥匙串中进行安装<br/>
