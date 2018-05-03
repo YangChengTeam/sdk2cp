@@ -45,6 +45,7 @@
 
 - **渠道后台** <br/>
 	**根据【游戏名称】将游戏信息录入后台生成相关参数** <br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;0. agentid=编号(iOS专用)<br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;1. appid=编号<br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;2. gameid=编号<br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;3. appkey=秘钥<br/>
