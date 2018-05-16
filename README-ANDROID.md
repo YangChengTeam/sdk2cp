@@ -9,10 +9,11 @@
 
 项目介绍
 ---
-###### [乐七Android聚合SDK项目]()，整合渠道SDK，对cp提供回调接口，
+##### [乐七Android聚合SDK项目](https://github.com/feiyouAndroidTeam/sdk2pc/blob/master/%E4%B9%90%E4%B8%83-android-sdk-v2.3.1.zip)，整合渠道SDK，对cp提供回调接口。目前SDK中提供的接口有:初始化、登录、创建订单、显示和隐藏悬浮窗、退出登录、切换用户。
 
 更新说明
 ---
+
 
 常见问题
 ---
