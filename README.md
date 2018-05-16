@@ -1,5 +1,3 @@
-. [乐七Android-SDK](#乐七Android-SDK)
-. [乐七iOS-SDK]（#乐七iOS-SDK）
 
 **乐七iOS-SDK**
 ---
