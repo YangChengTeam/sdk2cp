@@ -60,10 +60,10 @@
 │	
 └───主公别慌
 │   │    dev_push_com.leqi.zgbhios.cer     
-│	│    pro_push_com.leqi.zgbhios.cer 
-│	│    dev_com.leqi.zgbhios.mobileprovision     
-│	│    pro_com.leqi.zgbhios.mobileprovision     
-│	│    com.leqi.zgbhios沙盒帐号.txt 
+│   │    pro_push_com.leqi.zgbhios.cer 
+│   │    dev_com.leqi.zgbhios.mobileprovision     
+│   │    pro_com.leqi.zgbhios.mobileprovision     
+│   │    com.leqi.zgbhios沙盒帐号.txt 
 └───
 ```
 
