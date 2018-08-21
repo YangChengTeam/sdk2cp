@@ -53,10 +53,10 @@
 ### 本地目录结构
 ```
 3497059616@qq.com
-│   dev_3497059616@qq.cer      
-│   pro_3497059616@qq.cer   
-│   dev_3497059616@qq.p12     
-│   pro_3497059616@qq.p12      
+│   dev_3497059616@qq.com.cer      
+│   pro_3497059616@qq.com.cer   
+│   dev_3497059616@qq.com.p12     
+│   pro_3497059616@qq.com.p12      
 │	
 └───主公别慌
 │   │    dev_push_com.leqi.zgbhios.cer     
@@ -72,8 +72,8 @@
 ### 导出给CP的目录结构
 ```
 主公别慌
-│    dev_3497059616@qq.p12     
-│    pro_3497059616@qq.p12  
+│    dev_3497059616@qq.com.p12     
+│    pro_3497059616@qq.com.p12  
 │    dev_push_com.leqi.zgbhios.cer     
 │    pro_push_com.leqi.zgbhios.cer     
 │    pro_com.leqi.zgbhios.mobileprovision     
