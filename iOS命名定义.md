@@ -34,7 +34,7 @@
 
 
 **示例**<br/>
-
+帐号为: 3497059616@qq.com
 包名为: com.leqi.zgbhios<br/>
 
 	dev_3497059616@qq.com.cer      
