@@ -19,7 +19,7 @@
 ## 命名规则：
 
 - [dev|pro]_帐号.cer(**无需每次都下载**)<br/>
-- [dev|pro]_帐号.p12(**无需每次都下载**)<br/>
+- [dev|pro]_帐号.p12(**无需每次都导出**)<br/>
 - [dev|pro]_包名.mobileprovision<br/>
 - [dev|pro]_push_包名.cer<br/>
 - 包名沙盒帐号.txt
