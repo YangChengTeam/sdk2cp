@@ -85,10 +85,10 @@
 
 
 
-## 附:关于证书和描述文件生成
+## 附:关于证书和描述文件生成和应用相关配置
 ----
 
-###  [请求文件](CertificateSigningRequest.certSigningRequest)
+###  下载[请求文件](CertificateSigningRequest.certSigningRequest)
 ###  点击[**证书生成**](https://www.jianshu.com/p/8e73f7d31fab)
 ### 点击[**税务信息**](https://www.jianshu.com/p/c7cf65911bc1)
 ### 点击[**税务信息2**](https://www.jianshu.com/p/5ad7bfe1a836)
