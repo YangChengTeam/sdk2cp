@@ -88,14 +88,8 @@
 ## 关于证书和描述文件生成
 ----
 
-### 一、[**登录**](https://developer.apple.com/) 
-
-
-![登录1](login.jpg)	
-![登录2](login2.jpg)	
-
-
-### 二、[**生成**](https://www.jianshu.com/p/8e73f7d31fab)
+### 一、点击[**登录**](https://developer.apple.com/) 
+### 二、点击[**生成**](https://www.jianshu.com/p/8e73f7d31fab)
 
 
 
