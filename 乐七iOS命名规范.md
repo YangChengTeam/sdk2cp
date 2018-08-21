@@ -1,5 +1,5 @@
 
-**乐七iOS-SDK**
+**乐七iOS命名规范**
 ---
 [**下载乐七iOS-SDKv1.0.8**](乐七iOS-SDK_v1.0.8.zip)<br/>
 [**下载乐七iOS-SDKv1.0.7**](乐七iOS-SDK_v1.0.7.zip)<br/>
