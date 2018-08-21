@@ -59,11 +59,11 @@
 │	pro_3497059616@qq.p12      
 │	
 └───主公别慌
-│   │   dev_push_com.leqi.zgbhios.cer     
-│	│	pro_push_com.leqi.zgbhios.cer 
-│	│	dev_com.leqi.zgbhios.mobileprovision     
-│	│	pro_com.leqi.zgbhios.mobileprovision     
-│	│	com.leqi.zgbhios沙盒帐号.txt 
+│   │    dev_push_com.leqi.zgbhios.cer     
+│	│    pro_push_com.leqi.zgbhios.cer 
+│	│    dev_com.leqi.zgbhios.mobileprovision     
+│	│    pro_com.leqi.zgbhios.mobileprovision     
+│	│    com.leqi.zgbhios沙盒帐号.txt 
 └───
 ```
 
@@ -72,12 +72,12 @@
 ### 导出给CP的目录结构
 ```
 主公别慌
-│   dev_3497059616@qq.p12     
-│	pro_3497059616@qq.p12  
-│   dev_push_com.leqi.zgbhios.cer     
-│	pro_push_com.leqi.zgbhios.cer     
-│	pro_com.leqi.zgbhios.mobileprovision     
-│	com.leqi.zgbhios沙盒帐号.txt 
+│    dev_3497059616@qq.p12     
+│    pro_3497059616@qq.p12  
+│    dev_push_com.leqi.zgbhios.cer     
+│    pro_push_com.leqi.zgbhios.cer     
+│    pro_com.leqi.zgbhios.mobileprovision     
+│    com.leqi.zgbhios沙盒帐号.txt 
 └───
 ```
 
