@@ -1,5 +1,26 @@
 
-# **乐七iOS命名规范**
+# **乐七iOS基本规范**
+
+## 整个流程
+
+-  注册登录苹果开发者帐号
+-  进入后台生成相关证书
+-  填写税务信息（只填写一次）
+-  生成沙盒帐号（只填写一次）
+-  创建应用
+	-  **填写内购信息**
+-  导出相关证书给CP
+
+
+** 附:关于证书和描述文件生成和应用相关配置 **<br/>    
+
+- 点击查看[**注册帐号**](https://www.jianshu.com/p/b5a484cecd7c)
+- 点击下载[**请求文件**](CertificateSigningRequest.certSigningRequest)
+- 点击查看[**证书生成**](https://www.jianshu.com/p/8e73f7d31fab)
+- 点击查看[**税务信息**](https://www.jianshu.com/p/c7cf65911bc1)
+- 点击查看[**税务信息2**](https://www.jianshu.com/p/5ad7bfe1a836)
+- 点击查看[**沙盒帐号**](https://www.jianshu.com/p/1ef61a785508)
+- 点击查看[**内购相关**](https://www.jianshu.com/p/89acda082b07)
 
 
 ## 证书和描述文件矩阵结构
@@ -34,9 +55,11 @@
 
 
 **示例**<br/>
-帐号为: 3497059616@qq.com
+
+帐号为: 3497059616@qq.com<br/>
 包名为: com.leqi.zgbhios<br/>
 
+```
 	dev_3497059616@qq.com.cer      
 	pro_3497059616@qq.com.cer   
 	dev_3497059616@qq.com.p12     
@@ -46,7 +69,7 @@
 	dev_com.leqi.zgbhios.mobileprovision     
 	pro_com.leqi.zgbhios.mobileprovision     
 	com.leqi.zgbhios沙盒帐号.txt 
-
+```
 
 ## 目录结构：  
 
@@ -86,14 +109,6 @@
 
 
 
-## 附:关于证书和描述文件生成和应用相关配置
-----
-
-###  下载[请求文件](CertificateSigningRequest.certSigningRequest)
-###  点击查看[**证书生成**](https://www.jianshu.com/p/8e73f7d31fab)
-### 点击查看[**税务信息**](https://www.jianshu.com/p/c7cf65911bc1)
-### 点击查看[**税务信息2**](https://www.jianshu.com/p/5ad7bfe1a836)
-### 点击查看[**沙盒帐号**](https://www.jianshu.com/p/1ef61a785508)
 
 
 
