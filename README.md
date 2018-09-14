@@ -1,7 +1,7 @@
 
 **乐七iOS-SDK**
 ---
-[**下载乐七iOS-SDKvv1.0.92**](乐七iOS-SDK_v1.0.92.zip)<br/>
+[**下载乐七iOS-SDKv1.0.92**](乐七iOS-SDK_v1.0.92.zip)<br/>
 [**下载乐七iOS-SDKv1.0.8**](乐七iOS-SDK_v1.0.8.zip)<br/>
 [**下载乐七iOS-SDKv1.0.7**](乐七iOS-SDK_v1.0.7.zip)<br/>
 [**下载乐七iOS-SDKv1.0.6**](乐七iOS-SDK_v1.0.6.zip)<br/>
