@@ -13,7 +13,7 @@
 -  导出相关证书给CP
 
 
-**附:关于证书和描述文件生成和应用相关配置**<br/>    
+**附:关于证书和描述文件生成和应用相关配置** <br/>    
 
 - 点击查看[**注册帐号**](https://www.jianshu.com/p/b5a484cecd7c)
 - 点击下载[**请求文件**](CertificateSigningRequest.certSigningRequest)
@@ -22,8 +22,6 @@
 - 点击查看[**税务信息2**](https://www.jianshu.com/p/5ad7bfe1a836)
 - 点击查看[**沙盒帐号**](https://www.jianshu.com/p/1ef61a785508)
 - 点击查看[**内购相关**](https://www.jianshu.com/p/89acda082b07)
-
-
 
 
 ## 内部测试
@@ -86,6 +84,7 @@
 ## 目录结构：  
 
 ### 本地目录结构
+
 ```
 3497059616@qq.com
 │   dev_3497059616@qq.com.cer      
@@ -105,6 +104,7 @@
 
 
 ### 导出给CP的目录结构
+
 ```
 主公别慌
 │    dev_3497059616@qq.com.p12     
