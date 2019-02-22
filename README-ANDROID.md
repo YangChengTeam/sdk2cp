@@ -13,7 +13,14 @@
 
 更新说明
 ---
-**当前版本：v2.3.1**
+**当前版本：v2.3.3**
+1. ###### 增加今日头条统计功能
+2. ###### 修复之前的一些小问题
+
+**版本：v2.3.2**
+1. ###### 增加微信复制功能
+
+**版本：v2.3.1**
 1. ###### 将sdk版本号改成最新的2.3.1
 2. ###### 创建订单增加支付取消的回调接口
 3. ###### 更新SDK文档说明，详细描述创建订单所需参数的含义
@@ -38,4 +45,6 @@
 
 下载链接
 ---
+[乐七Android-SDKv2.3.2下载](https://github.com/feiyouAndroidTeam/sdk2pc/blob/master/%E4%B9%90%E4%B8%83-android-sdk-v2.3.2.zip)  
 [乐七Android-SDKv2.3.1下载](https://github.com/feiyouAndroidTeam/sdk2pc/blob/master/%E4%B9%90%E4%B8%83-android-sdk-v2.3.1.zip)
+
