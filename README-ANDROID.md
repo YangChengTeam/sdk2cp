@@ -13,7 +13,10 @@
 
 更新说明
 ---
-**当前版本：v2.3.3**
+**当前版本：v2.3.4**
+1. ###### 登录成功返回增加isAuthenticated（是否实名认证）、birthday（生日）两个字段
+
+**版本：v2.3.3**
 1. ###### 增加今日头条统计功能
 2. ###### 修复之前的一些小问题
 
@@ -45,6 +48,8 @@
 
 下载链接
 ---
+[乐七Android-SDKv2.3.3下载](https://github.com/YangChengTeam/sdk2cp/blob/master/%E4%B9%90%E4%B8%83-android-sdk-v2.3.3.zip)  
 [乐七Android-SDKv2.3.2下载](https://github.com/feiyouAndroidTeam/sdk2pc/blob/master/%E4%B9%90%E4%B8%83-android-sdk-v2.3.2.zip)  
 [乐七Android-SDKv2.3.1下载](https://github.com/feiyouAndroidTeam/sdk2pc/blob/master/%E4%B9%90%E4%B8%83-android-sdk-v2.3.1.zip)
+
 
